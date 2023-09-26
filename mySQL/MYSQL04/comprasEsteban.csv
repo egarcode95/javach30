@@ -1,0 +1,4 @@
+id,Fullname,idOrder,name,price,quantity,total_amount,purchase_date
+2,"Esteban Castro",1,Batman,299.00,2,5000.23,"2023-08-12 15:03:21"
+2,"Esteban Castro",1,"Hot Wheels Car",5.99,3,5000.23,"2023-08-12 15:03:21"
+2,"Esteban Castro",1,"Hot Wheels Monster Truck",9.99,5,5000.23,"2023-08-12 15:03:21"
